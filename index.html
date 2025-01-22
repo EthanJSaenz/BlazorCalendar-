@@ -47,7 +47,32 @@
 
           <div class="row">
             <!---Calendar-->
-            <div class="col-sm-12 col-lg-9">
+            <div class="col-sm-12 col-md-12 col-lg-9">
+              <div class="row">
+                <div class="col-sm-12 col-lg-2">
+                  <select name="" id="" class="fluent-input">
+                    <option value="">2023</option>
+                    <option value="">2024</option>
+                    <option value="">2025</option>
+                  </select>
+                </div>
+                <div class="col-sm-12 col-lg-2">
+                  <select name="" id="" class="fluent-input">
+                    <option value="">January</option>
+                    <option value="">February</option>
+                    <option value="">March</option>
+                    <option value="">April</option>
+                    <option value="">May</option>
+                    <option value="">June</option>
+                    <option value="">July</option>
+                    <option value="">August</option>
+                    <option value="">September</option>
+                    <option value="">October</option>
+                    <option value="">November</option>
+                    <option value="">December</option>
+                  </select>
+                </div>
+              </div>
               <table class="calendar-table">
                 <thread>
                   <tr>
@@ -238,17 +263,36 @@
                 </tbody>
               </table>
             </div>
-            <!---Menu-->
-            <div class="col-sm-12 col-lg-3">
-              <div class="ms-depth-16">
-                <div class="calendar-toolbar">
-                  <button class="toolbar-button"><i class="ms-Icon ms-Icon--AddEvent"></i></button>
+            <!---Menu--->
+            <div class="col-sm-12 col-md-12 col-lg-3">
+              <!---Add Event--->
+              <div class="ms-depth-16 ecard">
+                <div class="calendar-toolbar ebutton">
+                  <button class="toolbar-button ebutton"><i class="ms-Icon ms-Icon--AddEvent"></i></button>
                 </div>
                 <div class="card-content">
-                  <input type="text" class="fluent-input" placeholder="Event Subject">
-                  <input type="time" class="fluent-input" placeholder="Event Subject">
-                  <input type="time" class="fluent-input" placeholder="Event Subject">
+                  <input type="text" class="fluent-input ecard" placeholder="Event Subject">
+                  <input type="time" class="fluent-input ecard" placeholder="Event Subject">
+                  <input type="time" class="fluent-input ecard" placeholder="Event Subject">
                 </div>
+              </div>
+              <!---Day Events List--->
+              <div class="ms-depth-16 card">
+                <div class="card-content">
+                <h3 class="ms-fontSize-22 ms-fontWeight-regular">Tuesday, 22 May 2020</h3>
+                <div class="event shadow-effect magenta">
+                  <h3 class="ms-fontSize-14 ms-fontWeight-regular">6:00 PM to 8:00 PM</h3>
+                  <p class="ms-fontSize-11 ms-fontWeight-regular">Lorem ipsum etc etc yada yada yada</p>
+                </div>
+                <div class="event shadow-effect rorange">
+                  <h3 class="ms-fontSize-14 ms-fontWeight-regular">6:00 PM to 8:00 PM</h3>
+                  <p class="ms-fontSize-11 ms-fontWeight-regular">Lorem ipsum etc etc yada yada yada</p>
+                </div>
+                <div class="event shadow-effect gcyan">
+                  <h3 class="ms-fontSize-14 ms-fontWeight-regular">6:00 PM to 8:00 PM</h3>
+                  <p class="ms-fontSize-11 ms-fontWeight-regular">Lorem ipsum etc etc yada yada yada</p>
+                </div>
+              </div>
               </div>
             </div>
           </div>
