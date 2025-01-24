@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Microsoft_API_Calendar",
   "resources": {
-    "hash": "sha256-Hqw4PjjrEZu6wodBqJ5bXnT/ICoTy6ITW6VFwE3xXdg=",
+    "hash": "sha256-o7R9QSslaobYOXy6Okor0ytqafCLQHWhTtRBkiqgk18=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -204,8 +204,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Microsoft_API_Calendar.hcl9hkv2vy.wasm": "Microsoft_API_Calendar.wasm",
-      "Microsoft_API_Calendar.2kakx2h94z.pdb": "Microsoft_API_Calendar.pdb"
+      "Microsoft_API_Calendar.h8xihlhg4k.wasm": "Microsoft_API_Calendar.wasm",
+      "Microsoft_API_Calendar.z7dypljhjg.pdb": "Microsoft_API_Calendar.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -418,10 +418,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "Microsoft_API_Calendar.hcl9hkv2vy.wasm": "sha256-rzoqc4EgY339Cf30IxvrnYtbrjctRMDaLg4eAFOvWW0="
+      "Microsoft_API_Calendar.h8xihlhg4k.wasm": "sha256-P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84="
     },
     "pdb": {
-      "Microsoft_API_Calendar.2kakx2h94z.pdb": "sha256-cssxYFIfw6hpNOyMngZtgBnOoLkdOk+q1MBtQ6Ijg14="
+      "Microsoft_API_Calendar.z7dypljhjg.pdb": "sha256-kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY="
     }
   },
   "cacheBootResources": true,
