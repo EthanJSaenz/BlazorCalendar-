@@ -9,6 +9,6 @@ namespace Microsoft_API_Calendar.Models{
         public DateTime Date{ get; set; }
         public bool IsEmpty{ get; set; }
 
-        //public required List<CalendarEvent> Events{get; set;}
+        public List<CalendarEvent> Events{ get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wAkzH1C+wq1x9/sDBV3uLrYu3QHjKPnlIO/ZYr0PvpQ=",
+  "Hash": "z9qcXuXBnILYwLb0oSyGohtmPuxZ+pnxO//B9Y3B+/s=",
   "Source": "Microsoft_API_Calendar",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "takaob3lpo",
-      "Integrity": "RRllJr9cS+M2KYFm5rkn77UHVZ2eJik24fhiTvUXuAU=",
+      "Fingerprint": "47v0wnwegk",
+      "Integrity": "8PmSma2LC+FvDIy7qBWrZJmss57Uj6UR2Mf2U6nJOIA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "z7dypljhjg",
-      "Integrity": "kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY=",
+      "Fingerprint": "miwmwip9kh",
+      "Integrity": "4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Microsoft_API_Calendar.pdb"
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "h8xihlhg4k",
-      "Integrity": "P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84=",
+      "Fingerprint": "zt49dvx5vy",
+      "Integrity": "SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\webcil\\Microsoft_API_Calendar.wasm"
@@ -4889,12 +4889,12 @@
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
-      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-iqkp6jqc70.gz",
+      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-z5qqpogexl.gz",
       "SourceId": "Microsoft_API_Calendar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=iqkp6jqc70}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=z5qqpogexl}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4903,8 +4903,8 @@
       "RelatedAsset": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jd10refh1e",
-      "Integrity": "Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA=",
+      "Fingerprint": "3813hl7yzq",
+      "Integrity": "8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\index.html"
@@ -4952,12 +4952,12 @@
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
     },
     {
-      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-8rbvw3on5j.gz",
+      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-ohs0gfkaar.gz",
       "SourceId": "Microsoft_API_Calendar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=8rbvw3on5j}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=ohs0gfkaar}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4966,8 +4966,8 @@
       "RelatedAsset": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ri8oomj080",
-      "Integrity": "3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=",
+      "Fingerprint": "no2z9mzwd3",
+      "Integrity": "V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\css\\app.css"
@@ -7451,12 +7451,12 @@
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm"
     },
     {
-      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-h8xihlhg4k.gz",
+      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-zt49dvx5vy.gz",
       "SourceId": "Microsoft_API_Calendar",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft_API_Calendar#[.{fingerprint=h8xihlhg4k}]!.wasm.gz",
+      "RelativePath": "_framework/Microsoft_API_Calendar#[.{fingerprint=zt49dvx5vy}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dsn1ebwg6g",
-      "Integrity": "U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck=",
+      "Fingerprint": "1xx3lj05ee",
+      "Integrity": "dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm"
@@ -8816,12 +8816,12 @@
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Compression.wasm"
     },
     {
-      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-z7dypljhjg.gz",
+      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-miwmwip9kh.gz",
       "SourceId": "Microsoft_API_Calendar",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft_API_Calendar#[.{fingerprint=z7dypljhjg}]!.pdb.gz",
+      "RelativePath": "_framework/Microsoft_API_Calendar#[.{fingerprint=miwmwip9kh}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8830,8 +8830,8 @@
       "RelatedAsset": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qu3v0ha0mx",
-      "Integrity": "QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w=",
+      "Fingerprint": "09ar5hw1uq",
+      "Integrity": "XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.pdb"
@@ -9320,7 +9320,7 @@
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-takaob3lpo.gz",
+      "Identity": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-47v0wnwegk.gz",
       "SourceId": "Microsoft_API_Calendar",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\",
@@ -9334,8 +9334,8 @@
       "RelatedAsset": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lolqdip9uh",
-      "Integrity": "RXWqgNapaetcmuIj6PYexbyt8Ou2KvQ6yyBl+dZvWmg=",
+      "Fingerprint": "2aqsw1ji9y",
+      "Integrity": "9hetLVOiOATUJ6tdhVjX8DoBGaCdWCOFEQNTlLdi+0A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9985,8 +9985,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8rbvw3on5j",
-      "Integrity": "vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=",
+      "Fingerprint": "ohs0gfkaar",
+      "Integrity": "xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -10048,8 +10048,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iqkp6jqc70",
-      "Integrity": "xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI=",
+      "Fingerprint": "z5qqpogexl",
+      "Integrity": "959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -11294,11 +11294,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RRllJr9cS+M2KYFm5rkn77UHVZ2eJik24fhiTvUXuAU=\""
+          "Value": "\"8PmSma2LC+FvDIy7qBWrZJmss57Uj6UR2Mf2U6nJOIA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11308,18 +11308,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RRllJr9cS+M2KYFm5rkn77UHVZ2eJik24fhiTvUXuAU="
+          "Value": "sha256-8PmSma2LC+FvDIy7qBWrZJmss57Uj6UR2Mf2U6nJOIA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-takaob3lpo.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-47v0wnwegk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079751176"
+          "Quality": "0.000079782990"
         }
       ],
       "ResponseHeaders": [
@@ -11329,15 +11329,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12538"
+          "Value": "12533"
         },
         {
           "Name": "ETag",
-          "Value": "\"RXWqgNapaetcmuIj6PYexbyt8Ou2KvQ6yyBl+dZvWmg=\""
+          "Value": "\"9hetLVOiOATUJ6tdhVjX8DoBGaCdWCOFEQNTlLdi+0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:01:38 GMT"
+          "Value": "Fri, 24 Jan 2025 20:07:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11357,19 +11357,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RRllJr9cS+M2KYFm5rkn77UHVZ2eJik24fhiTvUXuAU=\""
+          "Value": "W/\"8PmSma2LC+FvDIy7qBWrZJmss57Uj6UR2Mf2U6nJOIA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RRllJr9cS+M2KYFm5rkn77UHVZ2eJik24fhiTvUXuAU="
+          "Value": "sha256-8PmSma2LC+FvDIy7qBWrZJmss57Uj6UR2Mf2U6nJOIA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-takaob3lpo.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\xb1i3asrbz-47v0wnwegk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11378,7 +11378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12538"
+          "Value": "12533"
         },
         {
           "Name": "Content-Type",
@@ -11386,11 +11386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RXWqgNapaetcmuIj6PYexbyt8Ou2KvQ6yyBl+dZvWmg=\""
+          "Value": "\"9hetLVOiOATUJ6tdhVjX8DoBGaCdWCOFEQNTlLdi+0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:01:38 GMT"
+          "Value": "Fri, 24 Jan 2025 20:07:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11408,7 +11408,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RXWqgNapaetcmuIj6PYexbyt8Ou2KvQ6yyBl+dZvWmg="
+          "Value": "sha256-9hetLVOiOATUJ6tdhVjX8DoBGaCdWCOFEQNTlLdi+0A="
         }
       ]
     },
@@ -14232,168 +14232,7 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft_API_Calendar.h8xihlhg4k.wasm",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28949"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h8xihlhg4k"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Microsoft_API_Calendar.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.h8xihlhg4k.wasm",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-h8xihlhg4k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000083542189"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11969"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h8xihlhg4k"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Microsoft_API_Calendar.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.h8xihlhg4k.wasm.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-h8xihlhg4k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h8xihlhg4k"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Microsoft_API_Calendar.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.pdb",
+      "Route": "_framework/Microsoft_API_Calendar.miwmwip9kh.pdb",
       "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -14403,7 +14242,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32856"
+          "Value": "35752"
         },
         {
           "Name": "Content-Type",
@@ -14411,285 +14250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY=\""
+          "Value": "\"4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.pdb",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-z7dypljhjg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000040622334"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24616"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.pdb.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-z7dypljhjg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.wasm",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28949"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.wasm",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-h8xihlhg4k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000083542189"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11969"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-P1LXbhW3yS6n9MkFXYY8xsSqVOZVDobnNQ7iGqycy84="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.wasm.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-h8xihlhg4k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-U/cGAJhhxVC/V+yHVcipXw+MFX6NAL08Mv95thvm0Ck="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Microsoft_API_Calendar.z7dypljhjg.pdb",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32856"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
+          "Value": "Fri, 24 Jan 2025 20:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14699,7 +14264,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z7dypljhjg"
+          "Value": "miwmwip9kh"
         },
         {
           "Name": "label",
@@ -14707,18 +14272,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY="
+          "Value": "sha256-4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0="
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft_API_Calendar.z7dypljhjg.pdb",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-z7dypljhjg.gz",
+      "Route": "_framework/Microsoft_API_Calendar.miwmwip9kh.pdb",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-miwmwip9kh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000040622334"
+          "Quality": "0.000036579121"
         }
       ],
       "ResponseHeaders": [
@@ -14728,15 +14293,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24616"
+          "Value": "27337"
         },
         {
           "Name": "ETag",
-          "Value": "\"QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w=\""
+          "Value": "\"XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14756,13 +14321,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY=\""
+          "Value": "W/\"4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z7dypljhjg"
+          "Value": "miwmwip9kh"
         },
         {
           "Name": "label",
@@ -14770,13 +14335,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kevjHE9bnl6R9X2wFMy/V6yv/TsAN+y44qWVeRADWkY="
+          "Value": "sha256-4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0="
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft_API_Calendar.z7dypljhjg.pdb.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-z7dypljhjg.gz",
+      "Route": "_framework/Microsoft_API_Calendar.miwmwip9kh.pdb.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-miwmwip9kh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14785,7 +14350,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24616"
+          "Value": "27337"
         },
         {
           "Name": "Content-Type",
@@ -14793,11 +14358,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w=\""
+          "Value": "\"XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:20:42 GMT"
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14815,7 +14380,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z7dypljhjg"
+          "Value": "miwmwip9kh"
         },
         {
           "Name": "label",
@@ -14823,7 +14388,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QqlbxsN+rEBqNAIGOZXF63HNEEEDB5pvWDr8SMkgL4w="
+          "Value": "sha256-XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.pdb",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.pdb",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-miwmwip9kh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000036579121"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jkrzal5EOSWtWBao+mgS9Pa6LYhfrJeGSPnZC8ZiM0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.pdb.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\ulctygn721-miwmwip9kh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEohJ4FZX2nOK3mze4Gb+G/I6puficQQZrUvV3hj0a8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.wasm",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.wasm",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-zt49dvx5vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075193624"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13298"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.wasm.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-zt49dvx5vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.zt49dvx5vy.wasm",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft_API_Calendar.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt49dvx5vy"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft_API_Calendar.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.zt49dvx5vy.wasm",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-zt49dvx5vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075193624"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13298"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt49dvx5vy"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft_API_Calendar.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSajZCv0ROXTO8ZwTDkbScZmr49bKyETeZNdld2aE2k="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft_API_Calendar.zt49dvx5vy.wasm.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\kt8cab6i9s-zt49dvx5vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 20:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt49dvx5vy"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft_API_Calendar.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dW9kzXd/C6AsHuIP4l8KAfyngkhbKiU7KFemUEevesQ="
         }
       ]
     },
@@ -73318,13 +73318,13 @@
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-8rbvw3on5j.gz",
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-ohs0gfkaar.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000492125984"
+          "Quality": "0.000507872016"
         }
       ],
       "ResponseHeaders": [
@@ -73334,19 +73334,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "1968"
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -73362,26 +73362,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "W/\"xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw="
         }
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css",
+      "Route": "css/app.css",
       "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73391,7 +73383,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4151"
+          "Value": "4025"
         },
         {
           "Name": "Content-Type",
@@ -73399,11 +73391,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "\"xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-ohs0gfkaar.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.ohs0gfkaar.css",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-ohs0gfkaar.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000507872016"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1968"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ohs0gfkaar"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.ohs0gfkaar.css",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73413,7 +73550,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
+          "Value": "ohs0gfkaar"
         },
         {
           "Name": "label",
@@ -73421,13 +73558,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-xAOkDZQYjzCxq5pb89c5VbzmvMwogCZJZKl5N+oSqVw="
         }
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-8rbvw3on5j.gz",
+      "Route": "css/app.ohs0gfkaar.css.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-ohs0gfkaar.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73436,7 +73573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "1968"
         },
         {
           "Name": "Content-Type",
@@ -73444,11 +73581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
+          "Value": "Fri, 24 Jan 2025 19:49:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73466,7 +73603,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
+          "Value": "ohs0gfkaar"
         },
         {
           "Name": "label",
@@ -73474,144 +73611,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-8rbvw3on5j.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000492125984"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\css\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4151"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\288bg7agwp-8rbvw3on5j.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:16:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4="
+          "Value": "sha256-V+lJBP3nsV4ULAa4V8I6fLW4/sUSVdkKh17+dYSX0a4="
         }
       ]
     },
@@ -73781,12 +73781,12 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-iqkp6jqc70.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-z5qqpogexl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001408450704"
+          "Quality": "0.001156069364"
         }
       ],
       "ResponseHeaders": [
@@ -73796,15 +73796,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "709"
+          "Value": "864"
         },
         {
           "Name": "ETag",
-          "Value": "\"Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA=\""
+          "Value": "\"8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73824,13 +73824,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI=\""
+          "Value": "W/\"959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI="
+          "Value": "sha256-959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY="
         }
       ]
     },
@@ -73845,7 +73845,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1445"
+          "Value": "1972"
         },
         {
           "Name": "Content-Type",
@@ -73853,11 +73853,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI=\""
+          "Value": "\"959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73867,13 +73867,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI="
+          "Value": "sha256-959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-iqkp6jqc70.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-z5qqpogexl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73882,7 +73882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "709"
+          "Value": "864"
         },
         {
           "Name": "Content-Type",
@@ -73890,11 +73890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA=\""
+          "Value": "\"8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73912,18 +73912,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA="
+          "Value": "sha256-8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw="
         }
       ]
     },
     {
-      "Route": "index.iqkp6jqc70.html",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-iqkp6jqc70.gz",
+      "Route": "index.z5qqpogexl.html",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-z5qqpogexl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001408450704"
+          "Quality": "0.001156069364"
         }
       ],
       "ResponseHeaders": [
@@ -73933,15 +73933,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "709"
+          "Value": "864"
         },
         {
           "Name": "ETag",
-          "Value": "\"Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA=\""
+          "Value": "\"8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73961,13 +73961,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI=\""
+          "Value": "W/\"959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iqkp6jqc70"
+          "Value": "z5qqpogexl"
         },
         {
           "Name": "label",
@@ -73975,12 +73975,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI="
+          "Value": "sha256-959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY="
         }
       ]
     },
     {
-      "Route": "index.iqkp6jqc70.html",
+      "Route": "index.z5qqpogexl.html",
       "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73990,7 +73990,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1445"
+          "Value": "1972"
         },
         {
           "Name": "Content-Type",
@@ -73998,11 +73998,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI=\""
+          "Value": "\"959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74012,7 +74012,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iqkp6jqc70"
+          "Value": "z5qqpogexl"
         },
         {
           "Name": "label",
@@ -74020,13 +74020,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xjggBMKrwYqVAcFwkp7CrPiAvPQDeHkjzgDQYvaz4zI="
+          "Value": "sha256-959ATyvPKyVflADoL1zLoO4oBd/AK4Ied0y4cZg0bnY="
         }
       ]
     },
     {
-      "Route": "index.iqkp6jqc70.html.gz",
-      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-iqkp6jqc70.gz",
+      "Route": "index.z5qqpogexl.html.gz",
+      "AssetFile": "C:\\Users\\ethan\\VSCode Projects\\Microsoft_API_Calendar\\obj\\Debug\\net9.0\\compressed\\2471t7v2fo-z5qqpogexl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -74035,7 +74035,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "709"
+          "Value": "864"
         },
         {
           "Name": "Content-Type",
@@ -74043,11 +74043,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA=\""
+          "Value": "\"8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 19:12:32 GMT"
+          "Value": "Fri, 24 Jan 2025 19:57:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74065,7 +74065,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iqkp6jqc70"
+          "Value": "z5qqpogexl"
         },
         {
           "Name": "label",
@@ -74073,7 +74073,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Cdapm2vu0uKIuF9y15T6rvCOV0zNasjFkaQg3ncyTbA="
+          "Value": "sha256-8z0uzWQJZHAerrhBa6uWtojObH8tXow2lxKgNuKlaTw="
         }
       ]
     },
