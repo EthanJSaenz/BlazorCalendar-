@@ -181,7 +181,7 @@ color:#1b1a19;
 
 .fluent-input{
     display: block;
-    width: 100%;
+    width: auto;
     padding: 3 7px;
     margin: 10px 0;
     border: 1px solid #3b3a39;
@@ -194,7 +194,7 @@ color:#1b1a19;
 
 .card-content{
     padding: 10px;
-
+    background-color: white;
 }
 
 .event{
@@ -209,7 +209,7 @@ color:#1b1a19;
 
 .ecard{
     border-radius: 5px;
-
+    width: 75%;
 }
 
 .ebutton{
