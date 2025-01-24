@@ -1100,3 +1100,4 @@ C:\Users\ethan\VSCode Projects\Microsoft_API_Calendar\obj\Debug\net9.0\Microsoft
 C:\Users\ethan\VSCode Projects\Microsoft_API_Calendar\obj\Debug\net9.0\refint\Microsoft_API_Calendar.dll
 C:\Users\ethan\VSCode Projects\Microsoft_API_Calendar\obj\Debug\net9.0\Microsoft_API_Calendar.pdb
 C:\Users\ethan\VSCode Projects\Microsoft_API_Calendar\obj\Debug\net9.0\ref\Microsoft_API_Calendar.dll
+C:\Users\ethan\VSCode Projects\Microsoft_API_Calendar\obj\Debug\net9.0\Microsoft_API_Calendar.sourcelink.json
