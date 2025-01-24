@@ -39,11 +39,15 @@
                   </tr>
                 </thread>
                 <tbody>
-                  <tr>
-                    <td>
-                        <!--@DayTemplate(day)---Calendar-->
-                    </td>
-                  </tr>
+                  @for(int r = 0; r<rowsCount;r++)
+                  {
+                    <tr>
+                      @foreach(var item in days.Skip(r*7).Take(7))
+                      {
+                        <td>@DayTemplate(item)</td>
+                      }
+                    </tr>
+                  }
                 </tbody>
               </table>
             </div>
@@ -51,26 +55,44 @@
 
 @code{
     [Parameter]
-    public RenderFragment<CalendarDay> DayTemplate{get;set;}
+    public required RenderFragment<CalendarDay> DayTemplate{get;set;}
 
     private int year = DateTime.Now.Year;
 
     private int month = DateTime.Now.Month;
     private List<CalendarDay> days = new List<CalendarDay>();
 
-    private int RowCount = 0;
+    private int rowsCount = 0;
+
+    private int EmptyDays = 0;
     void SelectYear(ChangeEventArgs e)
     {
-        year = Convert.ToInt32(e.value.ToString());
-        //Refresh Calendar
-        RefreshCal();
+        if (e.Value != null && int.TryParse(e.Value.ToString(), out int parsedYear))
+        {
+            year = parsedYear;
+            // Refresh Calendar
+            RefreshCal();
+        }
+        else
+        {
+            // Handle invalid input (e.g., show an error message)
+            Console.WriteLine("Invalid year selected.");
+        }
     }
 
     void SelectMonth(ChangeEventArgs e)
     {
-        month = Convert.ToInt32(e.value.ToSTring());
-        //Refresh Calendar
-        RefreshCal();
+        if (e.Value != null && int.TryParse(e.Value.ToString(), out int parsedMonth))
+        {
+           month = parsedMonth;
+            // Refresh Calendar
+            RefreshCal();
+        }
+        else
+        {
+            // Handle invalid input (e.g., show an error message)
+            Console.WriteLine("Invalid year selected.");
+        }
     }
 
     void RefreshCal()
@@ -78,16 +100,16 @@
         days= new List<CalendarDay>();
         //Calc # of empty days
         var firstDay = new DateTime(year,month,1);
-        int weekDayNum = (int)firstDayDate.DayOfWeek;
-        int numberOfEmptyDays = 0;
+        int weekDayNum = (int)firstDay.DayOfWeek;
+
         if(weekDayNum == 7)//Sunday
         {
-            numberOfEmptyDays = 0;
+            EmptyDays = 0;
         }
         else
-            numberOfEmptyDays = weekDayNum;
+            EmptyDays = weekDayNum;
         
-        for(int i = 0; i<numberOfEmptyDays;i++)
+        for(int i = 0; i<EmptyDays;i++)
         {
             days.Add(new CalendarDay
             {
@@ -98,6 +120,7 @@
 
         //Add the month days
         int numberOfDaysMonth = DateTime.DaysInMonth(year, month);
+        
 
         for(int i =0; i< numberOfDaysMonth;i++)
         {
@@ -115,6 +138,8 @@
             rowsCount = days.Count /7;
         else
             rowsCount = Convert.ToInt32(days.Count/7)+1;
-        Console.WriteLine($"Total Rows: {rowsCount} | Number of Empty Days {numberofEmptyDays} | Month Days {numberOfDaysMonth}");
+
+        
+        Console.WriteLine($"Total Rows: {rowsCount} | Number of Empty Days {EmptyDays} | Month Days {numberOfDaysMonth}");
     }
 }

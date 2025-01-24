@@ -1,14 +1,14 @@
 using System;
 using System.Collections.Generic;
 
-namespace BlazorCalendar.Models{
+namespace Microsoft_API_Calendar.Models{
 
     public class CalendarDay
     {
-        public int DayNumber{get; set;}
-        public DateTime Date{get; set;}
-        public bool IsEmpty{get; set;}
+        public int DayNumber { get; set; }
+        public DateTime Date{ get; set; }
+        public bool IsEmpty{ get; set; }
 
-        public List<CalendarEvent> Events{get; set;}
+        //public required List<CalendarEvent> Events{get; set;}
     }
 }
